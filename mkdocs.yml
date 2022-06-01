@@ -1,0 +1,29 @@
+site_url: https://chrisgaunt.com
+site_name: Chris Gaunt
+site_description: "Full-stack web developer"
+nav:
+    - Home: index.md
+theme:
+    name: material
+    custom_dir: overrides
+    language: en
+    favicon: images/favicon.png
+    icon:
+        logo: material/file-code
+    palette:
+        primary: light blue
+        accent: light blue
+    font:
+        text: Roboto
+    features: []
+markdown_extensions:
+    # Python Markdown
+    - meta
+    - toc:
+        permalink: true
+    # Python Markdown Extensions
+    - pymdownx.highlight
+    - pymdownx.superfences
+    - pymdownx.tasklist:
+        custom_checkbox: true
+plugins: []
