@@ -7,9 +7,8 @@ hide:
 # Welcome
 
 Hi, I'm a full-stack web developer working in the UK.  
-I also worked for 6 years in Japan, and enjoy visiting again whenever possible.
 
-I currently work primarily in PHP using Laravel, Laravel Livewire, Vue, AWS and MySQL.  
+I currently work in PHP and JavaScript using Laravel, Laravel Livewire, React, AWS and MySQL.  
 I've  worked extensively in the past with Ruby on Rails and PostgreSQL.
 
 More content coming soon.  
